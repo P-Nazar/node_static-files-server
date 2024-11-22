@@ -1,7 +1,5 @@
-/* eslint-disable max-len */
 'use strict';
 
-/* eslint-disable node/no-deprecated-api */
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
